@@ -1,0 +1,21 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "repository": "",
+  "author": "Mohd Jeeshan <mohdjeeshan007@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.23",
+    "@types/node": "^15.6.1",
+    "jest": "^27.0.3",
+    "jest-playwright-preset": "^1.6.0",
+    "playwright": "^1.11.1",
+    "ts-jest": "^27.0.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.3.2"
+  },
+  "dependencies": {}
+}
